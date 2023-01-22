@@ -1,2 +1,2 @@
-# AngularTraning
-Angular Traning Hands-on
+# AngularTraining
+Angular Training Hands-on
